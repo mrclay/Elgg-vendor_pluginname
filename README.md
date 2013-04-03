@@ -9,7 +9,7 @@ What this plugin does...
 Install this plugin as `path/to/Elgg/mod/vendor_pluginname`. E.g. using git:
 
     cd path/to/Elgg/mod
-    git clone git@github.com:vendor/repo.git vendor_pluginname
+    git clone https://github.com/mrclay/Elgg-vendor_pluginname.git vendor_pluginname
 
  1. Enable the plugin
 
